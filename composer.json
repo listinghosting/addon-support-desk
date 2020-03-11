@@ -1,0 +1,15 @@
+{
+    "name": "listinghosting/addon-support-desk",
+    "type": "listinghosting-addon",
+    "description": "Support Desk plugin for use within WHSuite",
+    "license": "listinghosting",
+    "authors": [
+        {
+            "name": "listinghosting",
+            "email": "git@listinghosting.com"
+        }
+    ],
+    "require": {
+        "php-mime-mail-parser/php-mime-mail-parser": "2.*"
+    }
+}
