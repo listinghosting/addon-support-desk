@@ -8,8 +8,5 @@
             "name": "listinghosting",
             "email": "git@listinghosting.com"
         }
-    ],
-    "require": {
-        "php-mime-mail-parser/php-mime-mail-parser": "2.*"
-    }
+    ]
 }
